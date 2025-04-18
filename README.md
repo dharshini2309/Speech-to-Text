@@ -15,7 +15,6 @@ A simple and efficient web application for real-time **Speech to Text Conversion
 ## 🛠️ Technologies Used
 
 - HTML5
-- CSS3
 - JavaScript (ES6)
 - Web Speech API
 
