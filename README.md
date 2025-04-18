@@ -6,7 +6,7 @@ A simple and efficient web application for real-time **Speech to Text Conversion
 
 - 🎙️ Real-time speech recognition
 - 📝 Display recognized text dynamically
-- 🌐 Supports multiple languages (if supported by browser)
+- 🌐 Supports multiple languages 
 - 🧼 Clear text button
 - 🖱️ Simple and user-friendly interface
 
